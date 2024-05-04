@@ -1,6 +1,5 @@
 # CKB-Developer-Resource
 
-# CKB -Developer-Resource
 This is a comprehensive developer resource hub for CKB
 
 ## **Understanding CKB:**
