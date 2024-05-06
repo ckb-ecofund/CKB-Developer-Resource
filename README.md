@@ -47,12 +47,6 @@ https://explorer.nervos.org/
 3. **Draft of the RGB++ Protocol Whitepaper**: Read the draft whitepaper [here](https://github.com/ckb-cell/RGBPlusPlus-design/blob/main/docs/light-paper-cn.md).
 4. **RGB++ Contract Specifications**: Detailed contract specifications are available [here](https://github.com/ckb-cell/RGBPlusPlus-design/blob/main/docs/locscript-design-prd-cn.md).
 
-| Frequent Asked Questions      | Answer |
-| ----------- | ----------- |
-| What is Info Cell      |  [Unique Cell](https://github.com/ckb-cell/unique-cell)     |
-| How to issue Info Cell      |   [Issue](https://github.com/ckb-cell/rgbpp-sdk/blob/develop/examples/rgbpp/xudt/1-issue-xudt.ts)    |
-| How to find Unique Info Cell   | Use Type Hash  |
-
 
 
 ### **Spore Protocol and DOB Documentation:**
