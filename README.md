@@ -128,10 +128,8 @@ Learn how to construct and transmit your first transaction on the CKB network by
 https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 
 ## **How to Utilize RPC:**
-
-1. **Using the CKB Indexer to Retrieve Cells and Transactions** (now integrated into the node module): [Visit the CKB Indexer on GitHub](https://github.com/nervosnetwork/ckb-indexer).
+1. **Public RPC Nodes**: [List of Public JSON-RPC Nodes for CKB](https://github.com/nervosnetwork/ckb/wiki/Public-JSON-RPC-nodes).
 2. **Retrieving Cells and Transactions via CKB’s GraphQL Layer**: [Explore the GraphQL discussion on Nervos Forum](https://talk.nervos.org/t/a-graphql-layer-for-ckb/7476).
-3. **Public RPC Nodes**: [List of Public JSON-RPC Nodes for CKB](https://github.com/nervosnetwork/ckb/wiki/Public-JSON-RPC-nodes).
 
 ## **Running a CKB Node:**
 
@@ -157,8 +155,6 @@ https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
     - Join and receive an instant response.
 2. **Nervos Talk**: [Visit Nervos Talk](https://talk.nervos.org/)
     - A comprehensive archive of all technical discussions and podcast transcripts since 2017.
-3. **HaCKBee** on Discord: [Join the HaCKBee Community](https://discord.gg/F2gWVgKE)
-    - Engage with Cryptape developers for real-time Q&A sessions.
 
 
 ## Videos
