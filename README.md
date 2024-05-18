@@ -19,7 +19,7 @@ This is a comprehensive developer resource hub for CKB
     
     [CookCKB on GitHub](https://github.com/CKBFansDAO/cookckb/tree/master)
     
-3. **CKB Official Documentation**: https://docs.nervos.org/
+3. **CKB Official Documentation**: [https://docs.nervos.org/](https://docs.nervos.org/)
 
 4. **CKB Resource Hub by orange-xc**: [Nervos Network Developer Resources Hub](https://talk.nervos.org/t/nervos-network-developers-resources-hub/7261)
 
@@ -71,8 +71,8 @@ https://explorer.nervos.org/
     This repository offers a collection of CKB script templates ready to be used with [cargo-generate](https://github.com/cargo-generate/cargo-generate). These templates are designed for straightforward development on mainstream operating systems including Linux, macOS, and Windows, utilizing the latest stable versions of Rust and the Clang C compiler.
     
 2. **Sample Code**: [Simple UDT GitHub Repository](https://github.com/xcshuan/simple-udt)
-3. **Implementation Guide**: [Learn how to use sUDT with Capsule](https://docs.nervos.org/docs/labs/sudtbycapsule)
-4. **Programming Model and Transaction Structure Resources**: [CKB Development Introduction](https://docs.ckb.dev/docs/docs/welcome/welcome-introduction)
+3. **Implementation Guide**: [Learn how to use sUDT with Capsule]([https://docs.nervos.org/docs/labs/sudtbycapsule](https://docs-old.nervos.org/docs/labs/sudtbycapsule))
+4. **Programming Model and Transaction Structure Resources**: [CKB Development Introduction]()
 
 ## Wallet Integration
 
@@ -141,10 +141,10 @@ https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 ## **Using SDKs (Detailed Instructions and Examples Included):**
 
 1. **Building CKB Scripts in Rust**:
-    - Write an SUDT Script using Capsule: [SUDT Script Tutorial](https://docs.nervos.org/docs/labs/sudtbycapsule/).
+    - Write an SUDT Script using Capsule: [SUDT Script Tutorial](https://docs-old.nervos.org/docs/labs/sudtbycapsule).
     - Implement Dynamic Loading in Capsule.
 2. **Developing Standalone CKB DApps in JavaScript**:
-    - Get Started with Lumos via NervosDAO: [Introduction to Lumos](https://docs.nervos.org/docs/labs/lumos-nervosdao).
+    - Get Started with Lumos via NervosDAO: [Introduction to Lumos](https://docs-old.nervos.org/docs/labs/lumos-nervosdao).
 3. **Dynamically Loading Shared Libraries in Rust Contracts**:
     - Learn about Dynamic Loading in Capsule: [Capsule Dynamic Loading Tutorial](https://docs.nervos.org/docs/labs/capsule-dynamic-loading-tutorial).
 
