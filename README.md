@@ -27,7 +27,7 @@ This is a comprehensive developer resource hub for CKB
     
     This repository houses proposals, standards, and documentation pertinent to the Nervos Network.
     
-6. **CKB Glossary**: https://docs.nervos.org/docs/basics/glossary/
+6. **CKB Glossary**: [https://docs.nervos.org/docs/tech-explanation/glossary](https://docs.nervos.org/docs/tech-explanation/glossary)
 
 
 ## Faucet:
