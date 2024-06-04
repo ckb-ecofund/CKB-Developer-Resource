@@ -38,6 +38,7 @@ https://faucet.nervos.org/
 
 https://explorer.nervos.org/
 
+
 ## **SDKs Related to the CKB Ecosystem**
 
 ### **RGB++ Documentation and SDKs:**
@@ -50,7 +51,13 @@ https://explorer.nervos.org/
 
 
 ### **Spore Protocol and DOB Documentation:**
+#### DOB(Digital Objects):
+1. **DOB Protocol Family**: https://docs.spore.pro/category/dob-digital-object
+2. ** DOB/0 Protocol**: https://docs.spore.pro/dob0/protocol
 
+
+
+#### Spore Basics
 1. **Spore Documentation**: Comprehensive guides and resources can be found [here](https://docs.spore.pro/).
 2. **Getting Started with Spore**: Essential basics to get started with Spore are detailed [here](https://docs.spore.pro/category/get-started).
 3. **Create Your First Spore**: A tutorial on creating your first Spore is available [here](https://docs.spore.pro/tutorials/create-first-spore/).
@@ -59,10 +66,7 @@ https://explorer.nervos.org/
 6. **Spore Glossary**: A glossary of terms used in Spore documentation is accessible [here](https://docs.spore.pro/category/glossary).
 7. **Spore Demo Source Code**: The source code for the Spore demo can be found on GitHub [here](https://github.com/sporeprotocol/spore-demo).
 8. **Spore Application Example**: Explore an application sample on Spore [here](https://github.com/SpectreMercury/PhilosopherStone).
-9. **Decoders**:
-    1. **DOB-0 Decoder Protocol Library**: The protocol library is available [here](https://github.com/sporeprotocol/spore-dob-0).
-    2. **Template for DOB-0 Decoder**: A template example for generating a decoder binary executable file from the DOB-0 protocol library can be found [here](https://github.com/sporeprotocol/decoder-template-rust).
-    3. **Standalone Decoder Server for DApp Providers**: This server runs the decoder and parses DNA, available [here](https://github.com/sporeprotocol/dob-decoder-standalone-server).
+
 
 ### **CKB Script Programming Examples:**
 
@@ -72,7 +76,7 @@ https://explorer.nervos.org/
     
 2. **Sample Code**: [Simple UDT GitHub Repository](https://github.com/xcshuan/simple-udt)
 3. **Implementation Guide**: [Learn how to use sUDT with Capsule]([https://docs.nervos.org/docs/labs/sudtbycapsule](https://docs-old.nervos.org/docs/labs/sudtbycapsule))
-4. **Programming Model and Transaction Structure Resources**: [CKB Development Introduction]()
+
 
 ## Wallet Integration
 
@@ -112,8 +116,7 @@ https://explorer.nervos.org/
     - **[ckb-c-stdlib](https://github.com/nervosnetwork/ckb-c-stdlib)** for C
     - **[ckb-lua](https://github.com/nervosnetwork/ckb-lua)** for Lua
 5. **JS/TS SDK - Lumos**: [Lumos](https://github.com/ckb-js/lumos) is a full-featured JavaScript/TypeScript framework designed to simplify DApp development on the CKB network. The project's name symbolizes its purpose: to illuminate the expansive yet uncharted territory of CKB, guiding developers into this new realm.
-6. **Kuai**: [Explore Kuai](https://github.com/ckb-js/kuai), a comprehensive application development framework and philosophy designed specifically for Nervos CKB. It features universal development patterns, easy-to-use scaffolding tools, a modular architecture, and detailed manuals to facilitate efficient development workflows.
-7. **Spore Protocol SDK**: Enhance your development capabilities with the [Spore Protocol SDK](https://github.com/sporeprotocol/spore-sdk). For more information, visit [Spore Protocol's homepage](https://spore.pro/).
+6. **Spore Protocol SDK**: Enhance your development capabilities with the [Spore Protocol SDK](https://github.com/sporeprotocol/spore-sdk). For more information, visit [Spore Protocol's homepage](https://spore.pro/).
 
 ## **Tutorials**
 
@@ -151,11 +154,15 @@ https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 
 ## **Developer Communities**
 
-1. CKB Dev Telegram Group: [CKB Dev](https://t.me/ckbdev)
-    - Join and receive an instant response.
-2. **Nervos Talk**: [Visit Nervos Talk](https://talk.nervos.org/)
+1. **Nervos Discord Dev Chat(Please leave your questions here)**
+   - English: https://discord.com/channels/657799690070523914/671647247024521217
+   - Chinese: https://discord.com/channels/657799690070523914/1242826741777432667
+3. **Nervos Talk**: [Visit Nervos Talk](https://talk.nervos.org/)
     - A comprehensive archive of all technical discussions and podcast transcripts since 2017.
 
+## **Community Works**
+1. **xUDT Logos**: https://xudtlogos.cc/faq
+   - Help you display xUDT logo on Dapps
 
 ## Videos
 
