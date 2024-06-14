@@ -115,6 +115,10 @@ https://explorer.nervos.org/
 1. [Spore Demo](https://github.com/SpectreMercury/PhilosopherStone/tree/main)
 2. [Philosopher’s Stone](https://github.com/sporeprotocol/spore-demo)
 
+**Wallets:**
+
+1. [Rei Wallet Demo](https://demo-app.reiwallet.io/)
+
 ## **Development Toolkit for CKB**
 
 1. **Testnet Faucet**: Before initiating development, ensure to claim testnet tokens from the faucet [here](https://faucet.nervos.org/).
