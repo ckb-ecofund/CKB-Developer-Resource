@@ -103,6 +103,7 @@ https://explorer.nervos.org/
 5. Practical example of JoyID Lock: 
     - [Philosopher’s Stone](https://github.com/SpectreMercury/PhilosopherStone/blob/main/src/utils/joyid.ts)
 6. Reference to Rei Wallet: [Docs](https://docs.reiwallet.io)
+7. CCC - Common Chains Connector for wallets: [Docs](https://github.com/ckb-ecofund/ccc)
 
 ## Demos
 
