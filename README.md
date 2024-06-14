@@ -78,14 +78,31 @@ https://explorer.nervos.org/
 3. **Implementation Guide**: [Learn how to use sUDT with Capsule]([https://docs.nervos.org/docs/labs/sudtbycapsule](https://docs-old.nervos.org/docs/labs/sudtbycapsule))
 
 
-## Wallet Integration
+## Wallets
 
+
+#### Supported Wallets
+ - Neuron Wallet (Desktop, Window, MacOS, Linux)
+ - CKBull (Mobile, Android, iOS)
+ - JoyID (Web, PassKey)
+ - Portal Wallet (Web)
+ - Rei Wallet (Browser, Extension)
+ - SafePal (Hardware, Android, iOS)
+ - Ledger (Hardware)
+ - Opera Wallet (Mobile, Android)
+ - imToken (Mobile, Android, iOS)
+ - Gate Web3 Wallet (Mobile/Extension)
+ - OneKey (Desktop/Mobile/Extension)
+ - to be continue
+
+#### Integrations
 1. **Consult the Wallet Integration Module in the CKB Cookbook**: [CKB Cookbook Wallet Manager](https://github.com/CKBFansDAO/cookckb/tree/master/src/walletmgr).
 2. [Introduction for the Omnilock](https://blog.cryptape.com/omnilock-a-universal-lock-that-powers-interoperability-1)
 3. References for Omnilock: [Omnilock](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0042-omnilock/0042-omnilock.md)
 4. Reference for JoyID Lock: [JoyID Lock](https://docs.joyid.dev/guide/sdk)
 5. Practical example of JoyID Lock: 
     - [Philosopher’s Stone](https://github.com/SpectreMercury/PhilosopherStone/blob/main/src/utils/joyid.ts)
+6. Reference to Rei Wallet: [Docs](https://docs.reiwallet.io)
 
 ## Demos
 
