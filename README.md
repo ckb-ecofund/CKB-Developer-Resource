@@ -152,7 +152,9 @@ https://docs.nervos.org/docs/reference/introduction/
 Learn how to construct and transmit your first transaction on the CKB network by following this step-by-step guide available at:
 https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 
+
 ## **How to Utilize RPC:**
+1. **The RPC API**: [Docs](https://github.com/nervosnetwork/ckb/tree/develop/rpc)
 1. **Public RPC Nodes**: [List of Public JSON-RPC Nodes for CKB](https://github.com/nervosnetwork/ckb/wiki/Public-JSON-RPC-nodes).
 2. **Retrieving Cells and Transactions via CKB’s GraphQL Layer**: [Explore the GraphQL discussion on Nervos Forum](https://talk.nervos.org/t/a-graphql-layer-for-ckb/7476).
 
