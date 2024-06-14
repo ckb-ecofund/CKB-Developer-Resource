@@ -182,6 +182,10 @@ https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 ## **Community Works**
 1. **xUDT Logos**: https://xudtlogos.cc/faq
    - Help you display xUDT logo on Dapps
+1. **CKBDapp** https://ckbdapps.com/
+   - Collections of tools for CKB Dapps.
+1. **CKB Tools** https://ckb.tools/
+   - Tools for generating addresses and other usefull info.
 
 ## Videos
 
