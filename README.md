@@ -157,8 +157,10 @@ https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 1. **Nervos Discord Dev Chat(Please leave your questions here)**
    - English: https://discord.com/channels/657799690070523914/671647247024521217
    - Chinese: https://discord.com/channels/657799690070523914/1242826741777432667
-3. **Nervos Talk**: [Visit Nervos Talk](https://talk.nervos.org/)
+1. **Nervos Talk**: [Visit Nervos Talk](https://talk.nervos.org/)
     - A comprehensive archive of all technical discussions and podcast transcripts since 2017.
+1. **Nervos/CKB Dev Community Telegram Group** https://t.me/ckbdev
+    - A community group for developers and enthusiasts.
 
 ## **Community Works**
 1. **xUDT Logos**: https://xudtlogos.cc/faq
