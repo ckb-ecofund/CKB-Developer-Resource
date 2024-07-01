@@ -78,14 +78,32 @@ https://explorer.nervos.org/
 3. **Implementation Guide**: [Learn how to use sUDT with Capsule]([https://docs.nervos.org/docs/labs/sudtbycapsule](https://docs-old.nervos.org/docs/labs/sudtbycapsule))
 
 
-## Wallet Integration
+## Wallets
 
+
+#### Supported Wallets
+ - Neuron Wallet (Desktop, Window, MacOS, Linux)
+ - CKBull (Mobile, Android, iOS)
+ - JoyID (Web, PassKey)
+ - Portal Wallet (Web)
+ - Rei Wallet (Browser, Extension)
+ - SafePal (Hardware, Android, iOS)
+ - Ledger (Hardware)
+ - Opera Wallet (Mobile, Android)
+ - imToken (Mobile, Android, iOS)
+ - Gate Web3 Wallet (Mobile/Extension)
+ - OneKey (Desktop/Mobile/Extension)
+ - to be continue
+
+#### Integrations
 1. **Consult the Wallet Integration Module in the CKB Cookbook**: [CKB Cookbook Wallet Manager](https://github.com/CKBFansDAO/cookckb/tree/master/src/walletmgr).
 2. [Introduction for the Omnilock](https://blog.cryptape.com/omnilock-a-universal-lock-that-powers-interoperability-1)
 3. References for Omnilock: [Omnilock](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0042-omnilock/0042-omnilock.md)
 4. Reference for JoyID Lock: [JoyID Lock](https://docs.joyid.dev/guide/sdk)
 5. Practical example of JoyID Lock: 
     - [Philosopher’s Stone](https://github.com/SpectreMercury/PhilosopherStone/blob/main/src/utils/joyid.ts)
+6. Reference to Rei Wallet: [Docs](https://docs.reiwallet.io)
+7. CCC - Common Chains Connector for wallets: [Docs](https://github.com/ckb-ecofund/ccc)
 
 ## Demos
 
@@ -97,6 +115,10 @@ https://explorer.nervos.org/
 
 1. [Spore Demo](https://github.com/SpectreMercury/PhilosopherStone/tree/main)
 2. [Philosopher’s Stone](https://github.com/sporeprotocol/spore-demo)
+
+**Wallets:**
+
+1. [Rei Wallet Demo](https://demo-app.reiwallet.io/)
 
 ## **Development Toolkit for CKB**
 
@@ -130,7 +152,9 @@ https://docs.nervos.org/docs/reference/introduction/
 Learn how to construct and transmit your first transaction on the CKB network by following this step-by-step guide available at:
 https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 
+
 ## **How to Utilize RPC:**
+1. **The RPC API**: [Docs](https://github.com/nervosnetwork/ckb/tree/develop/rpc)
 1. **Public RPC Nodes**: [List of Public JSON-RPC Nodes for CKB](https://github.com/nervosnetwork/ckb/wiki/Public-JSON-RPC-nodes).
 2. **Retrieving Cells and Transactions via CKB’s GraphQL Layer**: [Explore the GraphQL discussion on Nervos Forum](https://talk.nervos.org/t/a-graphql-layer-for-ckb/7476).
 
@@ -157,12 +181,18 @@ https://blog.cryptape.com/construct-and-send-your-first-ckb-transaction
 1. **Nervos Discord Dev Chat(Please leave your questions here)**
    - English: https://discord.com/channels/657799690070523914/671647247024521217
    - Chinese: https://discord.com/channels/657799690070523914/1242826741777432667
-3. **Nervos Talk**: [Visit Nervos Talk](https://talk.nervos.org/)
+1. **Nervos Talk**: [Visit Nervos Talk](https://talk.nervos.org/)
     - A comprehensive archive of all technical discussions and podcast transcripts since 2017.
+1. **Nervos/CKB Dev Community Telegram Group** https://t.me/ckbdev
+    - A community group for developers and enthusiasts.
 
 ## **Community Works**
 1. **xUDT Logos**: https://xudtlogos.cc/faq
    - Help you display xUDT logo on Dapps
+1. **CKBDapp** https://ckbdapps.com/
+   - Collections of tools for CKB Dapps.
+1. **CKB Tools** https://ckb.tools/
+   - Tools for generating addresses and other usefull info.
 
 ## Videos
 
